@@ -63,7 +63,6 @@ function createCard(dataInfo) {
     //set content
     image.src = dataInfo.authorPhoto;
     authorName.textContent = dataInfo.authorName;
-
     headLine.textContent = dataInfo.headline;
 
     //set style
